@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>72B02DD8-81F6-4C44-9E06-5FF54CD0A57D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FileCopyKVO</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>830CFB26-17D4-42B6-A33D-D1871C0246E8</key>
+		<string>https://github.com/Ysan521/DailyLearningCode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FileCopyKVO/FileCopyKVO.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>830CFB26-17D4-42B6-A33D-D1871C0246E8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ysan521/DailyLearningCode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>830CFB26-17D4-42B6-A33D-D1871C0246E8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>830CFB26-17D4-42B6-A33D-D1871C0246E8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
